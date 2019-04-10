@@ -4,5 +4,5 @@ compiler:
 - clang
 - gcc
 script:
-- gcc -o fact fact.c // we can use gcc instead of clang too
+- gcc -o fact fact.c
 - ./fact
